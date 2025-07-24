@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.leqom.com	TRUE	/	FALSE	1999999999	db	otv8kaihatsu
+www.leqom.com	TRUE	/	FALSE	1999999999	identify	dc2ebf69480fdf2bb57916a33cb10c7a
+www.leqom.com	TRUE	/	FALSE	1999999999	chr_id	4%2C2
+gigaplus.makeshop.jp	TRUE	/	FALSE	1999999999	AWSALB	jV5OvKarbMnOQ9cAQGagzfwxmYhwv9QdfD8Yj6JC2nl4KLG2/CH/Fzp1oyHhK44ql0aQeN5gKtylkXpGH5eYDDU6VnfDuU04GJqVA/tjEydRsIZrCaF1GC4bEmqp
+gigaplus.makeshop.jp	TRUE	/	FALSE	1999999999	AWSALBCORS	jV5OvKarbMnOQ9cAQGagzfwxmYhwv9QdfD8Yj6JC2nl4KLG2/CH/Fzp1oyHhK44ql0aQeN5gKtylkXpGH5eYDDU6VnfDuU04GJqVA/tjEydRsIZrCaF1GC4bEmqp
+gigaplus.makeshop.jp	TRUE	/	FALSE	1999999999	SameSite	None
+www.leqom.com	TRUE	/	FALSE	1999999999	AWSALB	Q55svdavIQxlL1XB+qTwieImV2gfX9G99Tze5xGtjB6TAVRvR19BtMOt4GzzNJiGLx9drzktf2aS/xmAlRt3TKF/mnCdmCUck7263+BCpE0bE9A0KHP6Pz1sV0Ao
+www.leqom.com	TRUE	/	FALSE	1999999999	AWSALBCORS	Q55svdavIQxlL1XB+qTwieImV2gfX9G99Tze5xGtjB6TAVRvR19BtMOt4GzzNJiGLx9drzktf2aS/xmAlRt3TKF/mnCdmCUck7263+BCpE0bE9A0KHP6Pz1sV0Ao
+www.leqom.com	TRUE	/	FALSE	1999999999	tempid	ac5169b0135cc254bfa47eddaf3ea1aa
+www.leqom.com	TRUE	/	FALSE	1999999999	slvd	1753322550
+www.leqom.com	TRUE	/	FALSE	1999999999	SameSite	None
+
